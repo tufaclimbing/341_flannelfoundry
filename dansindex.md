@@ -29,8 +29,8 @@
           <div class="body">
             <center>
               <h2> Forging fine flannels for fancy festivals frequently finished friday </h2>
-                  <img id="Red Flannel" src="flannel/images/flannelsquare.jpeg"
-                  alt="Hand Crafted Cook Cork" width="960" height="960" />
+                  <img id="Red Flannel" src="flannel/images/flannelsquare.jpg"
+                  alt="Square of Red Flannel" width="500" height="500" />
                   
               <h3> Falafel for Free! </h3>
                   <p> We serve complimentary falafel at our instore location. Because no one should ever have to shop for flannel on an empty stomach.
