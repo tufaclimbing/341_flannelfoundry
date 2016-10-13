@@ -29,7 +29,7 @@
           <div class="body">
             <center>
               <h2> Forging fine flannels for fancy festivals frequently finished friday </h2>
-                  <img id="Red Flannel" src="images/flannelsquare.jpeg"
+                  <img id="Red Flannel" src="flannel/images/flannelsquare.jpeg"
                   alt="Hand Crafted Cook Cork" width="960" height="960" />
                   
               <h3> Falafel for Free! </h3>
