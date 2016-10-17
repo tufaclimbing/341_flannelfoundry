@@ -7,11 +7,16 @@ body {
 }
 
 header {
+
   background-color: rgba(150, 27, 27, 0.5);
   text-align: center;
-  margin: 5px;
+  margin: 5px ;
   padding: 1px;
   color:rgb(255, 255, 255);
+ position: fixed;
+
+
+
 }
 
 article {
@@ -25,4 +30,6 @@ article {
 .textBoxes {
   background-color: rgba(150, 27, 27, 0.5);
   margin: 5px;
+  font-style: italic;
+  font: monospace;
 }
