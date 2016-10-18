@@ -14,7 +14,11 @@ header {
   padding: 1px;
   color:rgb(255, 255, 255);
  position: fixed;
-
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 
 
 }
@@ -24,6 +28,11 @@ article {
   /*max-width: 1250px;*/
   /*background-color: rgba(150, 27, 27, 0.5);*/
   color:rgb(255, 255, 255);
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 
 }
 
